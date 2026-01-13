@@ -1,6 +1,6 @@
 ### Olá <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjY4bHk2bzEybWl0czBlNTNzMXB5NmZwMXNiaXJvNTJvMHA1ZWc1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/24b8vkacKFitXv9Qq1/giphy.gif" width="25px"> Eu sou a Gabriela M. Sena e seja bem-vindo(a) ao meu perfil!
 
-✏️ Estudando Análise e Desenvolvimento de Sistemas pela Universidade de Fortaleza.
+✏️ Estudando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.
 <br>
 🖥️ Tenho interesse em Arquitetura Computacional e Análise de Dados.
 <br>
