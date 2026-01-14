@@ -2,6 +2,8 @@
 
 ✏️ Estudando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.
 <br>
+👨🏻‍💻 Arquiteta e Urbanista pela Universidade de Fortaleza.
+<br>
 🖥️ Tenho interesse em Arquitetura Computacional e Análise de Dados.
 <br>
 📧 Contato: gabrielamatiasena@gmail.com
@@ -20,7 +22,7 @@
   <kbd>Interesse:</kbd> 
      <br />
      <br />
-  <img align="center" title="Swift" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-plain.svg">
+  <img align="center" title="Swift" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
  </kbd>
  </div>
   
