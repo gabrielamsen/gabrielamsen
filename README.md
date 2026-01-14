@@ -4,7 +4,7 @@
 <br>
 👨🏻‍💻 Arquiteta e Urbanista pela Universidade de Fortaleza.
 <br>
-🖥️ Tenho interesse em Arquitetura Computacional e Análise de Dados.
+🖥️ Tenho interesse em Automação, Otimização e Análise de Dados.
 <br>
 📧 Contato: gabrielamatiasena@gmail.com
 <br>
