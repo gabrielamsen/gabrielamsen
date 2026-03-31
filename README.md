@@ -4,7 +4,7 @@
 <br>
 👨🏻‍💻 Arquiteta e Urbanista pela Universidade de Fortaleza.
 <br>
-🖥️ Tenho interesse em Automação, Otimização e Análise de Dados.
+🖥️ Tenho interesse no campo de Análise de Dados.
 <br>
 📧 Contato: gabrielamatiasena@gmail.com
 <br>
@@ -19,6 +19,7 @@
   <img align="center" title="Python" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" title="Pandas" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg">
   <img align="center" title="Jupyter" alt="Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg">
+  <img align="center" title="SQLite" alt="SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg">
 
   </kbd>
   <kbd align="center">
