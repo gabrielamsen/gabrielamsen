@@ -27,6 +27,7 @@
      <br />
      <br />
   <img align="center" title="Swift" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
+  <img align="center" title="Ruby" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
  </kbd>
  </div>
   
