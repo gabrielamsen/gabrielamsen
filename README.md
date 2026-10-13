@@ -4,7 +4,7 @@
 <br>
 👨🏻‍💻 Arquiteta e Urbanista pela Universidade de Fortaleza.
 <br>
-🖥️ Tenho interesse no campo de Análise de Dados.
+🖥️ Tenho interesse na área de desenvolvimento full stack e na área de dados.
 <br>
 📧 Contato: gabrielamatiasena@gmail.com
 <br>
